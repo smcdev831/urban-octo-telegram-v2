@@ -53,4 +53,4 @@ _Home Page_<br>[https://smcdev831.github.io/urban-octo-telegram-v2/](https://smc
 
 ### Screenshot
 
-![Horiseon Screenshot](https://raw.githubusercontent.com/fondofhats/urban-octo-telegram-v2/master/screencapture-fondofhats-github-io-urban-octo-telegram-v2-Develop-2020-08-05-15_21_37.jpg)
+![Horiseon Screenshot](https://imgur.com/YccpYZW)

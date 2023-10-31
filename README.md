@@ -49,7 +49,7 @@ The remote site is used for QA and hosted on GitHub Pages
 
 ##### The remote site is located here:
 
-_Home Page_<br>[https://fondofhats.github.io/urban-octo-telegram-v2/Develop/](https://fondofhats.github.io/urban-octo-telegram-v2/Develop/)
+_Home Page_<br>[https://smcdev.github.io/urban-octo-telegram-v2/Develop/](https://smcdev.github.io/urban-octo-telegram-v2/Develop/)
 
 ### Screenshot
 

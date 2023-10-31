@@ -4,7 +4,7 @@
 
 Refactored Horiseon website for UTA Bootcamp 10/2023 Module 1.
 
-This repo contains both the source code HTML, CSS, and additional assets used to build the website.
+This repo contains the source code HTML, CSS, and additional assets used to build the website.
 
 ## File Structure
 

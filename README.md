@@ -13,6 +13,8 @@ This repo contains both the source code HTML, CSS, and additional assets used to
 ```shell
 |-- Develop
     |-- assets
+        |-- css
+        |-- images
 ```
 
 `Develop/`

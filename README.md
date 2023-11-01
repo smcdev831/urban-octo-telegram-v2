@@ -53,3 +53,11 @@ _Home Page_<br>[https://smcdev831.github.io/urban-octo-telegram-v2/](https://smc
 ### Screenshot
 
 ![Horiseon Screenshot](https://github.com/smcdev831/urban-octo-telegram-v2/blob/main/assets/images/127.0.0.1_5500_Homework_urban-octo-telegram-main_Develop_index.html.png)
+
+## Notes
+
+Worked with peers, tutors, TAs and professor.
+
+## Link to Repo
+
+https://github.com/smcdev831/urban-octo-telegram-v2

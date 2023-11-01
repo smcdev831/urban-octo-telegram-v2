@@ -1,3 +1,4 @@
+/* Utility */
 * {
   box-sizing: border-box;
   padding: 0;
@@ -16,6 +17,17 @@ a {
 p {
   font-size: 16px;
 }
+
+.float-left {
+  float: left;
+  margin-right: 25px;
+}
+
+.float-right {
+  float: right;
+  margin-left: 25px;
+}
+/* End Utility */
 
 /* Header */
 .header {
@@ -52,18 +64,6 @@ p {
   margin-left: 25px;
 }
 /* End Header */
-
-/* Utility */
-.float-left {
-  float: left;
-  margin-right: 25px;
-}
-
-.float-right {
-  float: right;
-  margin-left: 25px;
-}
-/* End Utility */
 
 /* Hero */
 .hero {
